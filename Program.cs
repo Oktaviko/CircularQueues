@@ -17,6 +17,10 @@ namespace CircularQueues
             FRONT = -1;
             REAR = -1;
         }
+        public void insert(int element)
+        {
+
+        }
     }
     internal class Program
     {
