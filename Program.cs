@@ -71,6 +71,10 @@ namespace CircularQueues
                     FRONT = FRONT + 1;
             }
         }
+        public void display()
+        {
+
+        }
     }
     internal class Program
     {
